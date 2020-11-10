@@ -38,7 +38,7 @@
 	# The login timeout in ticks.
 	# Min: 1
 	# Max: 2147483647
-	# Default: 900
+	# Default: 1800
 	loginTimeout = 12000
 
 # Options related to client-sided features.

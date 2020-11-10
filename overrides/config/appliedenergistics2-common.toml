@@ -66,10 +66,11 @@
 	matterCannon = 200000
 
 [worldGen]
-	meteoriteDimensionWhitelist = ["minecraft:dimension"]
 	quartzOresClusterAmount = 20
+	meteoriteBiomeBlacklist = []
 	quartzOresPerCluster = 4
 	meteoriteMaximumSpawnHeight = 180
+	quartzOresBiomeBlacklist = []
 	#Range: 0.0 ~ 1.0
 	spawnChargedChance = 0.08
 

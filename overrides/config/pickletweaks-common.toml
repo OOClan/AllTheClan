@@ -14,6 +14,8 @@
 	#How much material should be required to fully repair a tool.
 	#Range: 1 ~ 8
 	cost = 4
+	#Crafting grid repair removes all non-curse enchantments.
+	stripEnchantments = false
 	#Should default repair materials be disabled? Doing this makes it so ONLY the custom materials work.
 	disableDefaults = false
 	#Tools that should not be repairable in the crafting grid.
