@@ -1,0 +1,9 @@
+ofSmoothFps:true
+ofSmoothWorld:true
+ofChunkUpdates:1
+ofChunkUpdatesDynamic:true
+ofLazyChunkLoading:true
+ofRenderRegions:true
+ofSmartAnimations:true
+ofDynamicLights:2
+ofFastMath:true
