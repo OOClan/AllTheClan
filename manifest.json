@@ -3,7 +3,7 @@
     "version": "1.16.4",
     "modLoaders": [
       {
-        "id": "forge-35.1.3",
+        "id": "forge-35.1.4",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "",
-  "version": "",
+  "version": "1.3.2c",
   "author": "",
   "projectID": 0,
   "overrides": "overrides",
@@ -330,14 +330,14 @@
     },
     {
       "projectID": 407780,
-      "fileID": 3108810,
+      "fileID": 3121462,
       "required": true,
       "_metadata": {
         "projectName": "Bigger Reactors",
-        "fileName": "biggerreactors-1.16.3-0.2.4-beta.jar",
-        "summary": "Official Big Reactors continuation",
+        "fileName": "biggerreactors-1.16.3-0.2.5-beta.jar",
+        "summary": "Official Continuation of Erogenous Beef's Big Reactors",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/biggerreactors",
-        "hash": "4077803108810"
+        "hash": "4077803121462"
       },
       "_serverIgnored": false
     },
@@ -811,14 +811,14 @@
     },
     {
       "projectID": 395158,
-      "fileID": 3120518,
+      "fileID": 3121680,
       "required": true,
       "_metadata": {
         "projectName": "Elemental Craft",
-        "fileName": "elementalcraft-1.16.3-2.4.10.jar",
+        "fileName": "elementalcraft-1.16.3-2.4.11.jar",
         "summary": "ElementalCraft is a magic mod based around the 4 elements: fire, water, earth and air.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/elemental-craft",
-        "hash": "3951583120518"
+        "hash": "3951583121680"
       },
       "_serverIgnored": false
     },
@@ -902,14 +902,14 @@
     },
     {
       "projectID": 301034,
-      "fileID": 3101192,
+      "fileID": 3121849,
       "required": true,
       "_metadata": {
         "projectName": "Entangled",
-        "fileName": "entangled-1.2.7-mc1.16.4.jar",
+        "fileName": "entangled-1.2.8-mc1.16.4.jar",
         "summary": "Entangled allows you to 'entangle' two blocks together!",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/entangled",
-        "hash": "3010343101192"
+        "hash": "3010343121849"
       },
       "_serverIgnored": false
     },
@@ -1604,27 +1604,27 @@
     },
     {
       "projectID": 245506,
-      "fileID": 3120693,
+      "fileID": 3121701,
       "required": true,
       "_metadata": {
         "projectName": "MineColonies",
-        "fileName": "minecolonies-0.13.472-ALPHA-universal.jar",
+        "fileName": "minecolonies-0.13.473-ALPHA-universal.jar",
         "summary": "Create a huge Town NPCs/Raids/Structures/Guards and many more",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/minecolonies",
-        "hash": "2455063120693"
+        "hash": "2455063121701"
       },
       "_serverIgnored": false
     },
     {
       "projectID": 351748,
-      "fileID": 3100545,
+      "fileID": 3121177,
       "required": true,
       "_metadata": {
         "projectName": "Mining Gadgets",
-        "fileName": "mininggadgets-1.7.0.jar",
+        "fileName": "mininggadgets-1.7.1.jar",
         "summary": "Because mining with lasers is cool",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mining-gadgets",
-        "hash": "3517483100545"
+        "hash": "3517483121177"
       },
       "_serverIgnored": false
     },
@@ -2670,14 +2670,14 @@
     },
     {
       "projectID": 245480,
-      "fileID": 3120516,
+      "fileID": 3121683,
       "required": true,
       "_metadata": {
         "projectName": "ValkyrieLib",
-        "fileName": "valkyrielib-1.16.4-3.0.4.0.jar",
+        "fileName": "valkyrielib-1.16.4-3.0.4.1.jar",
         "summary": "Library for all of ValkyrieofNight's Mods",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/valkyrielib",
-        "hash": "2454803120516"
+        "hash": "2454803121683"
       },
       "_serverIgnored": false
     },
