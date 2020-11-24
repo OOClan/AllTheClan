@@ -7,12 +7,6 @@
 	#The amount of time in seconds between each Growth Accelerator growth tick.
 	#Range: > 1
 	growthAcceleratorCooldown = 10
-	#Should the Ender Dragon drop essence when killed with an essence weapon?
-	dragonDropsEssence = true
-	#Should the Wither drop essence when killed with an essence weapon?
-	witherDropsEssence = true
-	#Should crops have a chance of dropping a second seed when harvested?
-	secondarySeedDrops = true
 	#The percentage chance that harvesting a Resource Crop will drop a Fertilized Essence.
 	#Range: 0.0 ~ 1.0
 	fertilizedEssenceChance = 0.1
