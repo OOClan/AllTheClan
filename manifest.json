@@ -11,21 +11,21 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "",
-  "version": "1.3.2c",
+  "version": "1.3.3",
   "author": "",
   "projectID": 0,
   "overrides": "overrides",
   "files": [
     {
       "projectID": 361246,
-      "fileID": 3041260,
+      "fileID": 3122625,
       "required": true,
       "_metadata": {
         "projectName": "/tank/null",
-        "fileName": "tanknull-2.1-1.16.2.jar",
+        "fileName": "tanknull-2.2-1.16.4.jar",
         "summary": "improved fluid storage",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/tank-null",
-        "hash": "3612463041260"
+        "hash": "3612463122625"
       },
       "_serverIgnored": false
     },
@@ -200,14 +200,14 @@
     },
     {
       "projectID": 419699,
-      "fileID": 3119636,
+      "fileID": 3123676,
       "required": true,
       "_metadata": {
         "projectName": "Architectury (Forge)",
-        "fileName": "architectury-1.1.49-forge.jar",
+        "fileName": "architectury-1.1.53-forge.jar",
         "summary": "An intermediary api aimed to ease developing multiplatform mods.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/architectury-forge",
-        "hash": "4196993119636"
+        "hash": "4196993123676"
       },
       "_serverIgnored": false
     },
@@ -421,14 +421,14 @@
     },
     {
       "projectID": 289310,
-      "fileID": 3114187,
+      "fileID": 3123685,
       "required": true,
       "_metadata": {
         "projectName": "Camera Mod",
-        "fileName": "camera-1.16.4-1.0.5.jar",
+        "fileName": "camera-1.16.4-1.0.6.jar",
         "summary": "A working Camera in Minecraft!",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/camera-mod",
-        "hash": "2893103114187"
+        "hash": "2893103123685"
       },
       "_serverIgnored": false
     },
@@ -681,27 +681,27 @@
     },
     {
       "projectID": 309927,
-      "fileID": 3107479,
+      "fileID": 3122651,
       "required": true,
       "_metadata": {
         "projectName": "Curios API (Forge)",
-        "fileName": "curios-forge-1.16.4-4.0.2.1.jar",
+        "fileName": "curios-forge-1.16.4-4.0.3.0.jar",
         "summary": "A flexible and expandable accessory/equipment API for users and developers.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/curios",
-        "hash": "3099273107479"
+        "hash": "3099273122651"
       },
       "_serverIgnored": false
     },
     {
       "projectID": 239286,
-      "fileID": 3108256,
+      "fileID": 3123347,
       "required": true,
       "_metadata": {
         "projectName": "Cyclic",
-        "fileName": "Cyclic-1.16.3-0.9.2.jar",
+        "fileName": "Cyclic-1.16.4-0.9.3.jar",
         "summary": "Tools, Machines, Gear, potions, villagers, fully configurable",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cyclic",
-        "hash": "2392863108256"
+        "hash": "2392863123347"
       },
       "_serverIgnored": false
     },
@@ -914,6 +914,32 @@
       "_serverIgnored": false
     },
     {
+      "projectID": 345795,
+      "fileID": 3121686,
+      "required": true,
+      "_metadata": {
+        "projectName": "Environmental Core",
+        "fileName": "envirocore-1.16.4-3.0.4.0.jar",
+        "summary": "This is the foundation of ValkyrieofNights Environmental mods. Environmental Tech, Environmental Energy and more",
+        "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/environmental-core",
+        "hash": "3457953121686"
+      },
+      "_serverIgnored": false
+    },
+    {
+      "projectID": 345798,
+      "fileID": 3122400,
+      "required": true,
+      "_metadata": {
+        "projectName": "Environmental Energy",
+        "fileName": "enviroenergy-1.16.4-3.0.4.0.jar",
+        "summary": "Various passive generators for the Environmental suite of mods",
+        "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/environmental-energy",
+        "hash": "3457983122400"
+      },
+      "_serverIgnored": false
+    },
+    {
       "projectID": 278825,
       "fileID": 3120517,
       "required": true,
@@ -927,15 +953,28 @@
       "_serverIgnored": false
     },
     {
+      "projectID": 245453,
+      "fileID": 3122397,
+      "required": true,
+      "_metadata": {
+        "projectName": "Environmental Tech",
+        "fileName": "envirotech-1.16.4-3.0.4.0.jar",
+        "summary": "A Tech mod filled with lots of multiblock machines. All machines run off or generate RF Energy.",
+        "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/environmental-tech",
+        "hash": "2454533122397"
+      },
+      "_serverIgnored": false
+    },
+    {
       "projectID": 351491,
-      "fileID": 3072486,
+      "fileID": 3122167,
       "required": true,
       "_metadata": {
         "projectName": "Extra Disks",
-        "fileName": "extradisks-1.16.3-1.3.3.jar",
+        "fileName": "extradisks-1.16.4-1.3.4.jar",
         "summary": "Extra Disks adds bigger disks to Refined Storage 1.14+",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/extra-disks",
-        "hash": "3514913072486"
+        "hash": "3514913122167"
       },
       "_serverIgnored": false
     },
@@ -980,14 +1019,14 @@
     },
     {
       "projectID": 314906,
-      "fileID": 3105153,
+      "fileID": 3124051,
       "required": true,
       "_metadata": {
         "projectName": "FTB Chunks",
-        "fileName": "ftb-chunks-1603.2.0.43.jar",
+        "fileName": "ftb-chunks-1603.2.0.44.jar",
         "summary": "A mod that allows you to claim chunks to protect your blocks and view minimap / large map",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-chunks",
-        "hash": "3149063105153"
+        "hash": "3149063124051"
       },
       "_serverIgnored": false
     },
@@ -1292,14 +1331,14 @@
     },
     {
       "projectID": 265917,
-      "fileID": 3111300,
+      "fileID": 3122292,
       "required": true,
       "_metadata": {
         "projectName": "JEI Integration",
-        "fileName": "jeiintegration_1.16.4-6.1.0.10.jar",
+        "fileName": "jeiintegration_1.16.4-6.1.1.11.jar",
         "summary": "Providing Integrations \u0026 Tooltips - Forge 1.10+",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei-integration",
-        "hash": "2659173111300"
+        "hash": "2659173122292"
       },
       "_serverIgnored": false
     },
@@ -1357,14 +1396,14 @@
     },
     {
       "projectID": 238086,
-      "fileID": 3120818,
+      "fileID": 3124102,
       "required": true,
       "_metadata": {
         "projectName": "KubeJS",
-        "fileName": "kubejs-1604.3.1.99-forge.jar",
+        "fileName": "kubejs-1604.3.1.103-forge.jar",
         "summary": "Edit recipes, add new custom items, script world events, all in JavaScript!",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/kubejs",
-        "hash": "2380863120818"
+        "hash": "2380863124102"
       },
       "_serverIgnored": false
     },
@@ -1474,14 +1513,14 @@
     },
     {
       "projectID": 342543,
-      "fileID": 3119912,
+      "fileID": 3122249,
       "required": true,
       "_metadata": {
         "projectName": "Mahou Tsukai",
-        "fileName": "mahoutsukai-1.16.4-v1.25.5.jar",
+        "fileName": "mahoutsukai-1.16.4-v1.25.6.jar",
         "summary": "A magic mod focused on special effects and spell uniqueness",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai",
-        "hash": "3425433119912"
+        "hash": "3425433122249"
       },
       "_serverIgnored": false
     },
@@ -1604,14 +1643,14 @@
     },
     {
       "projectID": 245506,
-      "fileID": 3121701,
+      "fileID": 3124144,
       "required": true,
       "_metadata": {
         "projectName": "MineColonies",
-        "fileName": "minecolonies-0.13.473-ALPHA-universal.jar",
+        "fileName": "minecolonies-0.13.475-ALPHA-universal.jar",
         "summary": "Create a huge Town NPCs/Raids/Structures/Guards and many more",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/minecolonies",
-        "hash": "2455063121701"
+        "hash": "2455063124144"
       },
       "_serverIgnored": false
     },
@@ -1669,14 +1708,14 @@
     },
     {
       "projectID": 256247,
-      "fileID": 3102681,
+      "fileID": 3123630,
       "required": true,
       "_metadata": {
         "projectName": "Mystical Agradditions",
-        "fileName": "MysticalAgradditions-1.16.4-4.1.1.jar",
+        "fileName": "MysticalAgradditions-1.16.4-4.1.2.jar",
         "summary": "Adds tier 6 crops, Tinkers' support, Paxels and more to Mystical Agriculture!",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions",
-        "hash": "2562473102681"
+        "hash": "2562473123630"
       },
       "_serverIgnored": false
     },
@@ -1734,14 +1773,14 @@
     },
     {
       "projectID": 252848,
-      "fileID": 3063663,
+      "fileID": 3123531,
       "required": true,
       "_metadata": {
         "projectName": "Nature's Compass",
-        "fileName": "NaturesCompass-1.16.3-1.8.5.jar",
+        "fileName": "NaturesCompass-1.16.4-1.8.5.jar",
         "summary": "Nature's Compass is a utility item that allows you to search for a biome's location anywhere in the world and view information about it.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
-        "hash": "2528483063663"
+        "hash": "2528483123531"
       },
       "_serverIgnored": false
     },
@@ -1773,14 +1812,14 @@
     },
     {
       "projectID": 316833,
-      "fileID": 3118110,
+      "fileID": 3123187,
       "required": true,
       "_metadata": {
         "projectName": "ObserverLib",
-        "fileName": "observerlib-1.16.4-1.4.3.jar",
+        "fileName": "observerlib-1.16.4-1.4.4.jar",
         "summary": "A Library mod that allows for generic area observation.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/observerlib",
-        "hash": "3168333118110"
+        "hash": "3168333123187"
       },
       "_serverIgnored": false
     },
@@ -2202,14 +2241,14 @@
     },
     {
       "projectID": 368293,
-      "fileID": 3110971,
+      "fileID": 3123152,
       "required": true,
       "_metadata": {
         "projectName": "Repurposed Structures (Forge)",
-        "fileName": "repurposed_structures-1.16.4-2.3.0.jar",
+        "fileName": "repurposed_structures-1.16.4-2.3.2.jar",
         "summary": "Adds more variations of vanilla structures and features such as a Jungle Fortress!",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/repurposed-structures",
-        "hash": "3682933110971"
+        "hash": "3682933123152"
       },
       "_serverIgnored": false
     },
@@ -2241,14 +2280,14 @@
     },
     {
       "projectID": 416294,
-      "fileID": 3107073,
+      "fileID": 3124036,
       "required": true,
       "_metadata": {
         "projectName": "Rhino",
-        "fileName": "rhino-1.7.13.8.jar",
+        "fileName": "rhino-1.7.13.9.jar",
         "summary": "A fork of Mozilla's Rhino library, modified for use in mods",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rhino",
-        "hash": "4162943107073"
+        "hash": "4162943124036"
       },
       "_serverIgnored": false
     },
@@ -2332,14 +2371,14 @@
     },
     {
       "projectID": 297039,
-      "fileID": 3120064,
+      "fileID": 3123958,
       "required": true,
       "_metadata": {
         "projectName": "Silent Gear",
-        "fileName": "SilentGear-1.16.3-2.3.8+179.jar",
+        "fileName": "SilentGear-1.16.3-2.3.9+181.jar",
         "summary": "Upgradeable tools, weapons, and armor. Custom materials system!",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/silent-gear",
-        "hash": "2970393120064"
+        "hash": "2970393123958"
       },
       "_serverIgnored": false
     },
@@ -2795,6 +2834,19 @@
         "summary": "A long-awaited and much-needed abandoned mineshaft overhaul!",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge",
         "hash": "3896653112344"
+      },
+      "_serverIgnored": false
+    },
+    {
+      "projectID": 237664,
+      "fileID": 3124200,
+      "required": true,
+      "_metadata": {
+        "projectName": "[FORGE] Iron Furnaces",
+        "fileName": "ironfurnaces-1.16.4-2.5.1.jar",
+        "summary": "A mod based on cpw's Iron Chests that adds new furnaces to the game.",
+        "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces",
+        "hash": "2376643124200"
       },
       "_serverIgnored": false
     },

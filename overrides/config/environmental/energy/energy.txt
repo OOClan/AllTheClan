@@ -1,0 +1,6 @@
+┏╸ma:energy
+┃┏╸bo:generate_documentation
+┃┣> Variable Type: java.lang.Boolean
+┃┣> Default: true
+┃┗> If this option is enabled documentation will be generated in the configs directory of the mod explaining what each setting does.
+┗╸
