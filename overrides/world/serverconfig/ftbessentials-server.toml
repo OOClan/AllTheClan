@@ -1,6 +1,6 @@
 #Max number of times you can use /back
 #Range: > 0
-maxBack = 0
+maxBack = 1
 #Max homes
 #Range: > 0
 maxHomes = 1
