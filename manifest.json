@@ -1630,14 +1630,14 @@
     },
     {
       "projectID": 325235,
-      "fileID": 3113544,
+      "fileID": 3131440,
       "required": true,
       "_metadata": {
         "projectName": "Mc2Discord",
-        "fileName": "minecraft2discord-forge-1.16.4-2.0.5.jar",
-        "summary": "A simple Server side only mod to link your Discord Server to the Minecraft chat",
+        "fileName": "minecraft2discord-forge-1.16.4-2.0.6.jar",
+        "summary": "Link your Minecraft chat with your Discord server",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/minecraft2discord",
-        "hash": "3252353113544"
+        "hash": "3252353131440"
       },
       "_serverIgnored": false
     },
@@ -2956,7 +2956,7 @@
     },
     {
       "name": "Spark",
-      "url": "https://ci.lucko.me/job/spark/154/artifact/spark-forge/build/libs/spark-forge.jar",
+      "url": "https://ci.lucko.me/job/spark/158/artifact/spark-forge/build/libs/spark-forge.jar",
       "installPath": "mods/spark-forge.jar",
       "required": true,
       "extract": {
