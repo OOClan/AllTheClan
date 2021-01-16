@@ -3,7 +3,7 @@
     "version": "1.16.4",
     "modLoaders": [
       {
-        "id": "forge-35.1.13",
+        "id": "forge-35.1.37",
         "primary": true
       }
     ]
@@ -442,6 +442,19 @@
         "summary": "Create endless custom decorations using in game materials.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits",
         "hash": "2310953133859"
+      },
+      "_serverIgnored": false
+    },
+    {
+      "projectID": 416306,
+      "fileID": 3166929,
+      "required": true,
+      "_metadata": {
+        "projectName": "Chocolate Fix",
+        "fileName": "chocolate-1.3.0-1.16.4.jar",
+        "summary": "Fixes vanilla bugs - mostly to do with custom world generation - which have a much larger impact on modded.",
+        "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chocolate-fix",
+        "hash": "4163063166929"
       },
       "_serverIgnored": false
     },
@@ -2956,7 +2969,7 @@
     },
     {
       "name": "Spark",
-      "url": "https://ci.lucko.me/job/spark/158/artifact/spark-forge/build/libs/spark-forge.jar",
+      "url": "https://www.dropbox.com/s/ket8t29htunm4a5/spark-forge.jar?dl=1",
       "installPath": "mods/spark-forge.jar",
       "required": true,
       "extract": {
