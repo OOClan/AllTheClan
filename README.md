@@ -16,6 +16,8 @@ Follow the instructions below to get the modpack launcher. When ran, it will pro
 
 - ### Linux and macOS
 
+  If running Linux, make sure you have Qt5 installed. Refer to the MultiMC [installation instructions](https://multimc.org/).
+
   Open a `Terminal` window, then type in:
 
   ```bash
