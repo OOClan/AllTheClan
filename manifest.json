@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "author": "",
   "projectID": 0,
   "overrides": "overrides",
@@ -70,14 +70,14 @@
     },
     {
       "projectID": 405593,
-      "fileID": 3169334,
+      "fileID": 3173269,
       "required": true,
       "_metadata": {
         "projectName": "ATO - All the Ores",
-        "fileName": "alltheores-1.1.19-1.16.4-35.1.13.jar",
+        "fileName": "alltheores-1.1.20-1.16.4-35.1.13.jar",
         "summary": "All the Ores Unified ",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ato",
-        "hash": "4055933169334"
+        "hash": "4055933173269"
       },
       "_serverIgnored": false
     },
@@ -122,14 +122,14 @@
     },
     {
       "projectID": 364466,
-      "fileID": 3169337,
+      "fileID": 3171997,
       "required": true,
       "_metadata": {
         "projectName": "Allthemodium",
-        "fileName": "allthemodium-1.1.25-1.16.4-35.1.13.jar",
+        "fileName": "allthemodium-1.1.27-1.16.4-35.1.13.jar",
         "summary": "Custom new ore plus fun new items.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/allthemodium",
-        "hash": "3644663169337"
+        "hash": "3644663171997"
       },
       "_serverIgnored": false
     },
@@ -216,7 +216,7 @@
       "fileID": 3167262,
       "required": true,
       "_metadata": {
-        "projectName": "Architectury (Forge)",
+        "projectName": "Architectury API (Forge)",
         "fileName": "architectury-1.3.80-forge.jar",
         "summary": "An intermediary api aimed to ease developing multiplatform mods.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/architectury-forge",
@@ -660,7 +660,7 @@
       "_metadata": {
         "projectName": "Corail Tombstone",
         "fileName": "tombstone-1.16-6.2.3.jar",
-        "summary": "Corail Tombstone prevents you from losing your belongings on death by keeping them in a grave, with many features of survivability and dimensional teleportation, in a medieval fantasy atmosphere related to the grave's souls",
+        "summary": "Corail Tombstone is a minecraft mod preventing you from losing your belongings on death by keeping them in a grave, with many features for better survivability and dimensional teleportation, in a medieval fantasy atmosphere related to the grave's souls",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
         "hash": "2437073152800"
       },
@@ -1505,7 +1505,7 @@
       "_metadata": {
         "projectName": "Item Filters",
         "fileName": "item-filters-1604.2.2.19.jar",
-        "summary": "A simple mod that only adds different kinds of item filters and a filter hopper",
+        "summary": "Item Filters is a library mod that is used by mods like FTB Quests. It adds several filter items that let you precisely select which items to match.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/item-filters",
         "hash": "3096743132233"
       },
@@ -2189,14 +2189,14 @@
     },
     {
       "projectID": 412551,
-      "fileID": 3153968,
+      "fileID": 3170880,
       "required": true,
       "_metadata": {
         "projectName": "Phosphophyllite",
-        "fileName": "",
+        "fileName": "phosphophyllite-1.16.4-0.4.1-beta.jar",
         "summary": "Library for the BiggerSeries of mods.",
         "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/phosphophyllite",
-        "hash": "4125513153968"
+        "hash": "4125513170880"
       },
       "_serverIgnored": false
     },
